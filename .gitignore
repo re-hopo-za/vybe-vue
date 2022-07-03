@@ -1,9 +1,4 @@
 /node_modules
-/public/hot
-/public/photos
-/public/files
-/public/storage
-/public/media
 /storage/*.key
 /storage/app/*
 /vendor
