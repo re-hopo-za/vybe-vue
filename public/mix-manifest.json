@@ -1,0 +1,9 @@
+{
+    "/css/backend/styles.min.css": "/css/backend/styles.min.css",
+    "/js/backend/scripts.min.js": "/js/backend/scripts.min.js",
+    "/js/backend/post/post-create-scripts.min.js": "/js/backend/post/post-create-scripts.min.js",
+    "/js/backend/post/post-edit-scripts.min.js": "/js/backend/post/post-edit-scripts.min.js",
+    "/js/backend/service/service-scripts.min.js": "/js/backend/service/service-scripts.min.js",
+    "/js/backend/work/work-scripts.min.js": "/js/backend/work/work-scripts.min.js",
+    "/js/backend/setting/setting-scripts.min.js": "/js/backend/setting/setting-scripts.min.js"
+}
